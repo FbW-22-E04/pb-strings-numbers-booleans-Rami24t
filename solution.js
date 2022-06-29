@@ -27,4 +27,4 @@ console.log("JavaScript is fun:", isFun);
 //    Print the J and S of "JavaScript" from the variable programmingLanguage to the console.
 console.log(programmingLanguage[0], programmingLanguage[1]);
 // Print the length of the string "JavaScript" to the console.
-console.log(programmingLanguage.length());
+console.log(programmingLanguage.length);

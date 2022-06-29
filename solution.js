@@ -14,7 +14,7 @@ age=36;
  //   Declare a variable called year and assign a number as its value.
 year = 2022;
 //    Using your declared variables, print a string to the console. For example, "Basem is 37 in 2020".
-console.log(firstName, "is", age, "in", 2020);
+console.log(firstName, "is", age, "in", year);
 //    Declare a variable called isMarried and assign it a boolean value.
 isMarried = false;
 //    Print a string to the console, indicating whether or not your person is married. For example, "Basem is married: true"

@@ -21,10 +21,10 @@ isMarried = false;
 console.log(firstName, "is married:", isMarried);
 //    Declare a variable called programmingLanguage and assign "JavaScript" as its value. Declare a variable called isFun and give it a value of true
 //. Print "JavaScript is fun: true" to the console, using your declared variables.
-programmingLanguage = "Javascript";
+programmingLanguage = "JavaScript";
 isFun = true;
 console.log("JavaScript is fun:", isFun);
 //    Print the J and S of "JavaScript" from the variable programmingLanguage to the console.
-console.log(programmingLanguage[0], programmingLanguage[1]);
+console.log(programmingLanguage[0], programmingLanguage[4]);
 // Print the length of the string "JavaScript" to the console.
 console.log(programmingLanguage.length);
